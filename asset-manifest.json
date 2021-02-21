@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wellness-care/static/css/main.dd27a61e.chunk.css",
+    "main.js": "/wellness-care/static/js/main.2b358845.chunk.js",
+    "main.js.map": "/wellness-care/static/js/main.2b358845.chunk.js.map",
+    "runtime-main.js": "/wellness-care/static/js/runtime-main.b5044cd9.js",
+    "runtime-main.js.map": "/wellness-care/static/js/runtime-main.b5044cd9.js.map",
+    "static/js/2.1bdc6f81.chunk.js": "/wellness-care/static/js/2.1bdc6f81.chunk.js",
+    "static/js/2.1bdc6f81.chunk.js.map": "/wellness-care/static/js/2.1bdc6f81.chunk.js.map",
+    "static/js/3.b1d3effd.chunk.js": "/wellness-care/static/js/3.b1d3effd.chunk.js",
+    "static/js/3.b1d3effd.chunk.js.map": "/wellness-care/static/js/3.b1d3effd.chunk.js.map",
+    "index.html": "/wellness-care/index.html",
+    "static/css/main.dd27a61e.chunk.css.map": "/wellness-care/static/css/main.dd27a61e.chunk.css.map",
+    "static/js/2.1bdc6f81.chunk.js.LICENSE.txt": "/wellness-care/static/js/2.1bdc6f81.chunk.js.LICENSE.txt",
+    "static/media/antd-logo.9cc2dd29.svg": "/wellness-care/static/media/antd-logo.9cc2dd29.svg",
+    "static/media/jest-logo.ce310074.svg": "/wellness-care/static/media/jest-logo.ce310074.svg",
+    "static/media/okta-logo.cf0de8d7.svg": "/wellness-care/static/media/okta-logo.cf0de8d7.svg",
+    "static/media/react-logo.144f9141.svg": "/wellness-care/static/media/react-logo.144f9141.svg",
+    "static/media/redux-logo.65d9a37b.svg": "/wellness-care/static/media/redux-logo.65d9a37b.svg",
+    "static/media/utility-logo.3c1e9e2d.svg": "/wellness-care/static/media/utility-logo.3c1e9e2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5044cd9.js",
+    "static/js/2.1bdc6f81.chunk.js",
+    "static/css/main.dd27a61e.chunk.css",
+    "static/js/main.2b358845.chunk.js"
+  ]
+}
